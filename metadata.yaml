@@ -1,0 +1,26 @@
+_repo: Hemsolaiset-Kertomus-saaristosta_54828
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Strindberg, August
+    alias: Strindberg, Johan August
+    birthdate: 1849
+    deathdate: 1912
+    gutenberg_agent_id: '1609'
+    url: http://www.gutenberg.org/2009/agents/1609
+    wikipedia: http://en.wikipedia.org/wiki/August_Strindberg
+description: ''
+gutenberg_issued: '2017-06-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54828'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Hemsöläiset
+
+  Kertomus saaristosta'
+url: http://www.gutenberg.org/ebooks/54828
